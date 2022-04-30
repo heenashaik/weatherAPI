@@ -1,5 +1,5 @@
 
-Weather-Featcher
+## Python-Automation Project
 
 * Featching weather of a particular city using weather API
 * Here we use python built-in modules such as requests.
@@ -36,7 +36,7 @@ Weather-Featcher
 #### Get item
 
 ```http
-  GET /api/items/${id}
+  GET /api/items/${url}
 ```
 
 | Parameter | Type     | Description                       |
